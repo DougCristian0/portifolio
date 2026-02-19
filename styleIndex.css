@@ -89,3 +89,13 @@ a{
     margin: 1%;
     margin-right: 5%;
 }
+
+svg{
+    width: 1.2vw;
+    height: 1.2vw;
+}
+
+#btnBack svg{
+    width: 2.5vw;
+    height: 2.5vw;
+}

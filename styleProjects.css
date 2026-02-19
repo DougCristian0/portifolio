@@ -67,6 +67,16 @@ p{font-size: 1.6vw; text-align: justify; margin-left: 100px; margin-right: 100px
   transition: all .5s ease-in-out;
 }
 
+svg{
+    width: 1.2vw;
+    height: 1.2vw;
+}
+
+#btnBack svg{
+    width: 2.5vw;
+    height: 2.5vw;
+}
+
 .Hab button {
   margin: 1.5%;
   border: 0px;
